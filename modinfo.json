@@ -1,0 +1,11 @@
+[
+    {
+        "type": "MOD_INFO",
+        "id": "NoAchievementBlockers",
+        "name": "No Achievement Scenario Blockers",
+        "authors": [ "Leon713" ],
+        "description": "Removes achievement requirement from the starting scenarios 'Challenge - Lab Staff', 'Callenge - Lab Patient', 'Ambush' & 'The Next Summer'.",
+        "category": "rebalance",
+        "dependencies": [ "dda" ]
+    }
+]
